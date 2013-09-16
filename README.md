@@ -7,4 +7,4 @@ Here's what it looks like:
 
 ![palette](/example/example.png)
 
-If you want to use it in Inkscape, download the brightandshiny.gpl file and copy it to /home/yourname/.config/palettes (available only to you) or /usr/share/inkscape/palettes (available to all users).
+If you want to use it in Inkscape, download the brightandshiny.gpl file and copy it to __/home/yourname/.config/palettes__ (available only to you) or __/usr/share/inkscape/palettes__ (available to all users).
